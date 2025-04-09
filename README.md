@@ -16,7 +16,7 @@
 <li>🧐 Learning about <strong>Distributed Data Paralleism</strong>, <strong>Model Sharding</strong>, and a bit of <strong>CUDA Optimisation</strong>.</li>
 <li>👨‍💻 I recently worked on the Image AI Vision models using <a href="https://huggingface.co/timm/resnet34d.ra2_in1k">Resnet34d</a>.</li>
 <li>📝 I collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a> winning my team <strong>3rd Placing</strong> at <a href="https://devpost.com/software/enviromentals">iNTUition v10.0</a>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1LAh1Dx1NgpByS1eEJWPHi6a__D2QezvG/view">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/14C49cQ7cegeIZ64ieq2y-p-X4IM5FuFE/view?usp=sharing">resume</a>.</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
