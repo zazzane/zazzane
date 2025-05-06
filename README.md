@@ -9,8 +9,8 @@
 
 
 <p>🫗 Don't forget to drink some water, stay hydrated my friend 🫗</p>
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhoMjJnN2F4aXB0cDVyYzRlZTRyODY1c3dod2xoMGowaHAyMzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhoMjJnN2F4aXB0cDVyYzRlZTRyODY1c3dod2xoMGowaHAyMzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" />
 <ul>
 <li>🔭 I’m currently working on fine tuning a specialised chatbot based on <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B">Deepseek R1 Qwen</a>.</li>
 <li>🧐 Learning about <strong>Distributed Data Paralleism</strong>, <strong>Model Sharding</strong>, and a bit of <strong>CUDA Optimisation</strong>.</li>
