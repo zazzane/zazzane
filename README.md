@@ -73,10 +73,9 @@
     </picture>
   </div>
   <p>
-    <img src="https://img.shields.io/badge/GPT--3.5%20Turbo-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-3.5 Turbo" />
     <img src="https://img.shields.io/badge/GPT--4o-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o" />
     <img src="https://img.shields.io/badge/Gemini-1C69FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-    <img src="https://img.shields.io/badge/Gemma-2E96FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
+    <img src="https://img.shields.io/badge/Gemma%203-2E96FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
     <img src="https://img.shields.io/badge/Claude%203.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 3.7" />
     <img src="https://img.shields.io/badge/Deepseek%20R1-4D6BFE?style=for-the-badge" alt="Deepseek R1" />
     <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge" alt="Qwen" />
