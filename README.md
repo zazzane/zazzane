@@ -6,12 +6,11 @@
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhoMjJnN2F4aXB0cDVyYzRlZTRyODY1c3dod2xoMGowaHAyMzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" />
 <ul>
 <li>🔭 I’m currently working on fine tuning a specialised chatbot based on Google's <a href="https://huggingface.co/google/gemma-3-27b-it">Gemma 3</a>.</li>
-<li>🧐 Learning about <strong>Distributed Data Paralleism</strong>, <strong>Model Sharding</strong>, and a bit of <strong>CUDA Optimisation</strong>.</li>C
+<li>🧐 Learning about <strong>Distributed Data Paralleism</strong>, <strong>Model Sharding</strong>, and a bit of <strong>CUDA Optimisation</strong>.</li>
 <li>👨‍💻 I recently worked on the Image AI Vision models using <a href="https://huggingface.co/timm/resnet34d.ra2_in1k">Resnet34d</a>.</li>
 <li>📝 I collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a> winning my team <strong>3rd Placing</strong> at <a href="https://devpost.com/software/enviromentals">iNTUition v10.0</a>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/14C49cQ7cegeIZ64ieq2y-p-X4IM5FuFE/view?usp=sharing">resume</a>.</li>
 </ul>
-
 <br>
 
 ## 📊 GitHub Stats
@@ -39,6 +38,49 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google-colab" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40" />
+  </p>
+    
+  <h3>Large Language Models</h3>
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" />
+      <img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png" alt="OpenAI" />
+    </picture>
+    &nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini.png" />
+      <img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/gemini.png" alt="Gemini" />
+    </picture>
+    &nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemma.png" />
+      <img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/gemma.png" alt="Gemma" />
+    </picture>
+    &nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" />
+      <img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/claude.png" alt="Claude" />
+    </picture>
+    &nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek.png" />
+      <img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/deepseek.png" alt="Deepseek" />
+    </picture>
+    &nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/qwen.png" />
+      <img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/qwen.png" alt="Qwen" />
+    </picture>
+  </div>
+  <p>
+    <img src="https://img.shields.io/badge/GPT--3.5%20Turbo-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-3.5 Turbo" />
+    <img src="https://img.shields.io/badge/GPT--4o-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o" />
+    <img src="https://img.shields.io/badge/Gemini-1C69FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+    <img src="https://img.shields.io/badge/Gemma%202-2E96FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemma 2" />
+    <img src="https://img.shields.io/badge/Gemma%203-2E96FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemma 3" />
+    <img src="https://img.shields.io/badge/Claude%203.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 3.7" />
+    <img src="https://img.shields.io/badge/Deepseek%20R1-4D6BFE?style=for-the-badge" alt="Deepseek R1" />
+    <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge" alt="Qwen" />
   </p>
 
   <h3>Database</h3>
