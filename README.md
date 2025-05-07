@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhoMjJnN2F4aXB0cDVyYzRlZTRyODY1c3dod2xoMGowaHAyMzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" />
 <ul>
-<li>🔭 I’m currently working on fine tuning a specialised chatbot based on <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B">Deepseek R1 Qwen</a>.</li>
+<li>🔭 I’m currently working on fine tuning a specialised chatbot based on Google's <a href="https://huggingface.co/google/gemma-3-27b-it">Gemma 3</a>.</li>
 <li>🧐 Learning about <strong>Distributed Data Paralleism</strong>, <strong>Model Sharding</strong>, and a bit of <strong>CUDA Optimisation</strong>.</li>C
 <li>👨‍💻 I recently worked on the Image AI Vision models using <a href="https://huggingface.co/timm/resnet34d.ra2_in1k">Resnet34d</a>.</li>
 <li>📝 I collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a> winning my team <strong>3rd Placing</strong> at <a href="https://devpost.com/software/enviromentals">iNTUition v10.0</a>.</li>
