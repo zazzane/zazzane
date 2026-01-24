@@ -1,5 +1,5 @@
 # Hey 👋, I'm Zane</a>
-<p>I'm currently an AI Operations Project Manager interning at <strong><a href="https://lifeattiktok.com/">TikTok (ByteDance)</a></strong> and a <strong><a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence">Data Science & Artificial Intelligence</a></strong> undergraduate in my final year at <strong><a href="https://www.ntu.edu.sg/">Nanyang Technological University</a></strong> based in 📍 Singapore! I love to chat so connect with me! 
+<p>I'm currently an AI MCP Developer interning at <strong><a href="https://www.autodesk.com/careers/overview">Autodesk</a></strong> and a <strong><a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence">Data Science & Artificial Intelligence</a></strong> undergraduate in my final year at <strong><a href="https://www.ntu.edu.sg/">Nanyang Technological University</a></strong> based in 📍 Singapore! I love to chat so connect with me! 
   
 ## ⚡️ A Few Quick Facts
 
