@@ -1,14 +1,14 @@
 # Hey 👋, I'm Zane</a>
-<p>I'm currently an AI MCP Developer interning at <strong><a href="https://www.autodesk.com/careers/overview">Autodesk</a></strong> and a <strong><a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence">Data Science & Artificial Intelligence</a></strong> undergraduate in my final year at <strong><a href="https://www.ntu.edu.sg/">Nanyang Technological University</a></strong> based in 📍 Singapore! I love to chat so connect with me! 
+<p>I'm currently an AI MCP Developer interning at <strong><a href="https://www.autodesk.com/careers/overview">Autodesk</a></strong> and a <strong><a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence">Data Science & Artificial Intelligence</a></strong> undergraduate in my final year at <strong><a href="https://www.ntu.edu.sg/">Nanyang Technological University</a></strong> based in 📍 Singapore! Previously interned at <strong>TikTok</strong> and <strong>Seagate Technology</strong>. I love to chat so connect with me!
   
 ## ⚡️ A Few Quick Facts
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhoMjJnN2F4aXB0cDVyYzRlZTRyODY1c3dod2xoMGowaHAyMzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" />
 <ul>
-<li>🔭 I have worked on fine tuning a specialised chatbot based on Google's <a href="https://huggingface.co/google/gemma-3-27b-it">Gemma 3</a>.</li>
-<li>🧐 Learning about <strong>Effective Reasoning Technologies</strong> in LLMs, <strong>Chain of Thought Quantization</strong>, and a bit of <strong>CUDA Optimisation</strong>.</li>
-<li>👨‍💻 I recently worked on the Image AI Vision models using <a href="https://huggingface.co/timm/resnet34d.ra2_in1k">Resnet34d</a>.</li>
-<li>📝 I collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a> winning my team <strong>3rd Placing</strong> at <a href="https://devpost.com/software/enviromentals">iNTUition v10.0</a>.</li>
+<li>🤖 Building <strong>Agentic AI workflows</strong> with <strong>Model Context Protocol (MCP)</strong> at Autodesk, automating complex system troubleshooting pipelines.</li>
+<li>🔬 Conducting independent research on <strong>LLM/VLM Quantization</strong> (PTQ/QAT) and <strong>Linformer</strong> linear attention — reducing transformer complexity from O(n²) to O(n). <em>Repo coming soon.</em></li>
+<li>👨‍💻 Previously delivered <strong>$800k in savings</strong> at Seagate via Image AI (<a href="https://huggingface.co/timm/resnet34d.ra2_in1k">ResNet34d</a>) and engineered distributed multi-GPU training pipelines.</li>
+<li>📝 Collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a>, a gamified recycling web app — <strong>3rd Place</strong> at <a href="https://devpost.com/software/enviromentals">iNTUition v10.0</a>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/15ACwKftXiU53MGLMIoBpfUbitZp8W41G/view?usp=drivesdk">resume</a>.</li>
 </ul>
 <br>
@@ -114,8 +114,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" alt="poetry" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" alt="replit" width="40" height="40" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
   </p>
 
   <h3>Design & Productivity</h3>
