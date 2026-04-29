@@ -9,7 +9,7 @@
 <li>🔬 Conducting independent research on <strong>LLM/VLM Quantization</strong> (PTQ/QAT) and <strong>Linformer</strong> linear attention — reducing transformer complexity from O(n²) to O(n). <em>Repo coming soon.</em></li>
 <li>👨‍💻 Previously delivered <strong>$800k in savings</strong> at Seagate via Image AI (<a href="https://huggingface.co/timm/resnet34d.ra2_in1k">ResNet34d</a>) and engineered distributed multi-GPU training pipelines.</li>
 <li>📝 Collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a>, a gamified recycling web app — <strong>3rd Place</strong> at <a href="https://devpost.com/software/enviromentals">iNTUition v10.0</a>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/15ACwKftXiU53MGLMIoBpfUbitZp8W41G/view?usp=drivesdk">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1Hp4BSku0DBizOfmJfqg7GJBC8XEBseZF/view?usp=sharing">resume</a>.</li>
 </ul>
 <br>
 
