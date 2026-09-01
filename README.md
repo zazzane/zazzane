@@ -1,14 +1,17 @@
-# Hey 👋, I'm Zane</a>
-<p>I'm passionate about <strong>Model Context Protocol (MCP) development</strong> and <strong>AI/Machine Learning modelling</strong>. I'm a <strong><a href="https://www.ntu.edu.sg/education/undergraduate">student at NTU</a></strong> with previous internship experience at <strong><a href="https://www.autodesk.com/careers/overview">Autodesk</a></strong> and <strong><a href="https://www.seagate.com/">Seagate</a></strong>.</p>
+# Hey 👋, I'm Zane
+<p>I'm a <strong><a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence">Data Science & Artificial Intelligence</a></strong> graduate from <strong><a href="https://www.ntu.edu.sg/">Nanyang Technological University</a></strong> based in 📍 Singapore! My current work focuses on AI/ML model engineering and MCP development.</p>
 
+<p>Previously, I worked on AI research and development at <strong><a href="https://www.autodesk.com/careers/overview">Autodesk</a></strong>, alongside past internships at <strong>TikTok</strong> and <strong>Seagate Technology</strong>. I love to chat so connect with me!</p>
+  
 ## ⚡️ A Few Quick Facts
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhoMjJnN2F4aXB0cDVyYzRlZTRyODY1c3dod2xoMGowaHAyMzI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" />
 <ul>
-<li>🤖 Building <strong>Agentic AI workflows</strong> with <strong>Model Context Protocol (MCP)</strong> at Autodesk, automating complex system troubleshooting pipelines.</li>
-<li>🔬 Conducting independent research on <strong>LLM/VLM Quantization</strong> (PTQ/QAT) and <strong>Linformer</strong> linear attention — reducing transformer complexity from O(n²) to O(n).</li>
-<li>👨‍💻 Previously delivered <strong>$800k in savings</strong> at Seagate via Image AI (<a href="https://huggingface.co/timm/resnet34d.ra2_in1k">ResNet34d</a>) and engineered distributed multi-GPU pipelines.</li>
-<li>📝 Collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a>, a gamified recycling web app — <strong>3rd Place</strong> at <a href="https://devpost.com/software/environmentals">Devpost Hackathon</a>.</li>
+<li>🤖 Engineered <strong>Agentic AI workflows</strong> with <strong>Model Context Protocol (MCP)</strong>, automating complex system troubleshooting pipelines.</li>
+<li>🎓 Published my Final Year Project on <a href="https://dr.ntu.edu.sg/entities/publication/6951f49b-960e-4f99-b691-77b533b16892"><strong>Quantized Reasoning Models</strong></a>, evaluating the impact of PTQ methods (AWQ, QuaRot) on the multimodal reasoning capabilities of DeepSeek-R1 and LLaVA-OneVision.</li>
+<li>🔬 Conducting independent research on <strong>Linformer</strong> linear attention — reducing transformer complexity from O(n²) to O(n). </li>
+<li>👨‍💻 Previously delivered <strong>$800k in savings</strong> at Seagate via Image AI (<a href="https://huggingface.co/timm/resnet34d.ra2_in1k">ResNet34d</a>) and engineered distributed multi-GPU training pipelines.</li>
+<li>📝 Collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a>, a gamified recycling web app — <strong>3rd Place</strong> at <a href="https://devpost.com/software/enviromentals">iNTUition v10.0</a>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1Hp4BSku0DBizOfmJfqg7GJBC8XEBseZF/view?usp=sharing">resume</a>.</li>
 </ul>
 <br>
