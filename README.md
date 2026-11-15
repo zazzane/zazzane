@@ -12,7 +12,7 @@
 <li>🔬 Conducting independent research on <strong>Linformer</strong> linear attention — reducing transformer complexity from O(n²) to O(n). </li>
 <li>👨‍💻 Previously delivered <strong>$800k in savings</strong> at Seagate via Image AI (<a href="https://huggingface.co/timm/resnet34d.ra2_in1k">ResNet34d</a>) and engineered distributed multi-GPU training pipelines.</li>
 <li>📝 Collaborated on <a href="https://environmentals.vercel.app/">Environmentals</a>, a gamified recycling web app — <strong>3rd Place</strong> at <a href="https://devpost.com/software/enviromentals">iNTUition v10.0</a>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1Hp4BSku0DBizOfmJfqg7GJBC8XEBseZF/view?usp=sharing">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/14CHZOsGou5uNGQ73waiUcYpqbLcNCz_7/view?usp=sharing">resume</a>.</li>
 </ul>
 <br>
 
@@ -76,11 +76,11 @@
     </picture>
   </div>
   <p>
-    <img src="https://img.shields.io/badge/GPT--4o-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o" />
+    <img src="https://img.shields.io/badge/GPT--4o-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
     <img src="https://img.shields.io/badge/Gemini-1C69FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
     <img src="https://img.shields.io/badge/Gemma%203-2E96FF?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
-    <img src="https://img.shields.io/badge/Claude%203.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 3.7" />
-    <img src="https://img.shields.io/badge/Deepseek%20R1-4D6BFE?style=for-the-badge" alt="Deepseek R1" />
+    <img src="https://img.shields.io/badge/Claude%203.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+    <img src="https://img.shields.io/badge/Deepseek%20R1-4D6BFE?style=for-the-badge" alt="Deepseek" />
     <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge" alt="Qwen" />
   </p>
 
